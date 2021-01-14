@@ -12,4 +12,4 @@ Mehmet Çolak
 
 Ogün Berat Gürses
 
-Sunum Videosu:
+Sunum Videosu: https://youtu.be/VtgfCFJX-Us
