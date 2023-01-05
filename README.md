@@ -1,6 +1,4 @@
-BLM 302 – Mikrokontrolörler ve Robotik - Sumo Robot
-
--Fenerbahçe Üniversite Sumo Robot Projesi-
+-Fenerbahçe Üniversite Gerçek Zamanlı Sosyal Mesafe Analizi-
 
 Hazırlayanlar:
 
@@ -8,6 +6,6 @@ Erdem Şentürk
 
 Mehmet Çolak
 
-Alp Yılmaz
 
-Sunum Videosu: https://youtu.be/d_70NQVPwKE
+
+Sunum Videosu: https://www.youtube.com/watch?v=VtgfCFJX-Us
